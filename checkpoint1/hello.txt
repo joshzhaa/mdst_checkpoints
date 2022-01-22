@@ -1,0 +1,4 @@
+name: Josh
+year: 2nd
+majors: Physics and Computer Science
+fun fact: I'm using vscode to edit this text
