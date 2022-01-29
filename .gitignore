@@ -2,5 +2,6 @@ tutorial1/*
 tutorial2/*
 env/*
 data/*
+.ipynb_checkpoints
 README.md
 requirements.txt
